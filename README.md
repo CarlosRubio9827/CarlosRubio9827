@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Carlos Rubio 👋
 
-<!--
-**CarlosRubio9827/CarlosRubio9827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista QA con experiencia en telecomunicaciones y Travel Tech. Trabajo en análisis de requisitos, diseño de pruebas, automatización y seguimiento de defectos.
 
-Here are some ideas to get you started:
+He liderado el ciclo de calidad de células de desarrollo, conectando las reglas de negocio con la validación del producto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Herramientas y experiencia
+
+- **Automatización:** Cypress, JavaScript y Page Object Model.
+- **API y datos:** Postman, SoapUI, SQL y MongoDB.
+- **Gestión de calidad:** pruebas funcionales, end-to-end, smoke y regresión; seguimiento con Jira.
+- **IA aplicada a QA:** agentes para consultar documentación funcional y reglas de negocio.
+
+Me interesa desarrollar herramientas que agilicen las pruebas y faciliten el trabajo del equipo.
+
+[LinkedIn](https://www.linkedin.com/in/carlos-alberto-rubio-gallego-bb91b6176/)
